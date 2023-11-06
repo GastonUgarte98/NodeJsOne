@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "0.0.0",
+  "description": "Practicas y ejemplos para la capacitacion NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch .",
+    "prod": "git push origin --all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GastonUgarte98/NodeJsOne.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "runtime environment",
+    "javascript",
+    "server side"
+  ],
+  "author": "Gaston Ugarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GastonUgarte98/NodeJsOne/issues"
+  },
+  "homepage": "https://github.com/GastonUgarte98/NodeJsOne#readme"
+}
