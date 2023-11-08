@@ -1,0 +1,21 @@
+{
+  "name": "segundarama",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch .",
+    "deploy": "git push --all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GastonUgarte98/NodeJsOne.git#main.git"
+  },
+  "keywords": [],
+  "author": " gaston ugarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GastonUgarte98/NodeJsOne/issues"
+  },
+  "homepage": "https://github.com/GastonUgarte98/NodeJsOne/tree/main.git#readme",
+  "description": ""
+}
